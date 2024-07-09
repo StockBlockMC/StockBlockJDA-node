@@ -1,8 +1,7 @@
-name: StockBlockJDANode
+name: ${project.name}
 version: ${project.version}
 main: uk.co.hopperelec.mc.stockblockjdanode.StockBlockJDANode
-api-version: 1.16
+api-version: 1.21
 prefix: DiscordBot
-authors: [ HopperElecYT ]
-description: Basic details sent from each node on StockBlock to the proxy for the JDA (with extra features specifically for Demonetized SMP)
-website: hopperelec.co.uk
+authors: [ hopperelec ]
+description: ${project.description}
